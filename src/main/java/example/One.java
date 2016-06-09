@@ -7,6 +7,7 @@ public class One {
     return message;
   }
 //Check Polling
+//check webhook
   public void uncoveredMethod() {
     System.out.println(foo());
     
