@@ -7,7 +7,7 @@ public class One {
     return message;
   }
 //Check Polling
-
+//
 
   public void uncoveredMethod() {
     System.out.println(foo());
