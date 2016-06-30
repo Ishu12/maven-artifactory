@@ -56,11 +56,18 @@
     </plugins>
   </reporting>
 <distributionManagement>
+    <repository>
+        <id>c0e5a82baa01</id>
+        <name>c0e5a82baa01-releases</name>
+        <url>http://192.168.99.100:32768/artifactory/ext-release-local</url>
+    </repository>
+    
     <snapshotRepository>
-        <id>instance-005d01fe</id>
-        <name>instance-005d01fe-snapshots</name>
-        <url>http://artifactory.mybluemix.net/artifactory/ext-snapshot-local</url>
+        <id>c0e5a82baa01</id>
+        <name>c0e5a82baa01-snapshots</name>
+        <url>http://192.168.99.100:32768/artifactory/ext-snapshot-local</url>
     </snapshotRepository>
+
 </distributionManagement>
 
 </project>
