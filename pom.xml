@@ -56,11 +56,13 @@
     </plugins>
   </reporting>
 <distributionManagement>
+
     <repository>
         <id>c0e5a82baa01</id>
         <name>c0e5a82baa01-releases</name>
         <url>http://192.168.99.100:32768/artifactory/ext-release-local</url>
     </repository>
+
     
     <snapshotRepository>
         <id>c0e5a82baa01</id>
