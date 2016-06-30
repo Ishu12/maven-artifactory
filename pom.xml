@@ -57,9 +57,9 @@
   </reporting>
 <distributionManagement>
     <snapshotRepository>
-        <id>instance-00488c98</id>
-        <name>instance-00488c98-snapshots</name>
-        <url>http://169.44.9.243:8080/artifactory/ext-snapshot-local</url>
+        <id>instance-005d01fe</id>
+        <name>instance-005d01fe-snapshots</name>
+        <url>http://artifactory.mybluemix.net/artifactory/ext-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
